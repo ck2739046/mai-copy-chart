@@ -66,46 +66,48 @@
       <file>
         <path>011821_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>4</musicLevelID>
+      <maxNotes>356</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011821_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>8</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>10</musicLevelID>
+      <maxNotes>621</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011821_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>12</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>きょむりん &amp; Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>991</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

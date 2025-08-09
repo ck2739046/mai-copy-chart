@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011817</dataName>
   <netOpenName>
@@ -94,16 +94,16 @@
       <file>
         <path>011817_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>12</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>263</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
