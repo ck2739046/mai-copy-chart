@@ -6,7 +6,7 @@
     <str>Net230922</str>
   </netOpenName>
   <releaseTagName>
-  <longMusic>1</longMusic>
+    <longMusic>1</longMusic>
     <id>4001</id>
     <str>Ver1.40.00</str>
   </releaseTagName>
@@ -26,7 +26,7 @@
     <str>xi</str>
   </artistName>
   <genreName>
-    <id>1</id>
+    <id>105</id>
     <str>
     </str>
   </genreName>

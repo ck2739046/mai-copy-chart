@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011874</dataName>
   <netOpenName>
@@ -24,7 +24,7 @@
     <str>MYUKKE.</str>
   </artistName>
   <genreName>
-    <id>1</id>
+    <id>104</id>
     <str>
     </str>
   </genreName>
