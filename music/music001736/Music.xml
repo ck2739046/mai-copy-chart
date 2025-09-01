@@ -12,13 +12,13 @@
   <disable>false</disable>
   <name>
     <id>1736</id>
-    <str>プリズム△▽リズム [SD]</str>
+    <str>プリズム△▽リズム</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>プリズム△▽リズム [SD]</sortName>
+  <sortName>プリズム△▽リズム</sortName>
   <artistName>
     <id>999</id>
     <str>Shoichiro Hirata feat.Sana</str>
@@ -37,11 +37,11 @@
   </AddVersion>
   <movieName>
     <id>1736</id>
-    <str>プリズム△▽リズム [SD]</str>
+    <str>プリズム△▽リズム</str>
   </movieName>
   <cueName>
     <id>1736</id>
-    <str>プリズム△▽リズム [SD]</str>
+    <str>プリズム△▽リズム</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>

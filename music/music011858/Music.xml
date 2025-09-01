@@ -94,16 +94,16 @@
       <file>
         <path>011858_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>10</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>きょむりん</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>337</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

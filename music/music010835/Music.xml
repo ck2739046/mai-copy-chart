@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music010835</dataName>
   <netOpenName>
@@ -12,13 +12,13 @@
   <disable>false</disable>
   <name>
     <id>10835</id>
-    <str>Believe the Rainbow [DX]</str>
+    <str>Believe the Rainbow</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Believe the Rainbow [DX]</sortName>
+  <sortName>Believe the Rainbow</sortName>
   <artistName>
     <id>999</id>
     <str>Shoichiro Hirata feat.Sana</str>
@@ -37,11 +37,11 @@
   </AddVersion>
   <movieName>
     <id>835</id>
-    <str>Believe the Rainbow [DX]</str>
+    <str>Believe the Rainbow</str>
   </movieName>
   <cueName>
     <id>835</id>
-    <str>Believe the Rainbow [DX]</str>
+    <str>Believe the Rainbow</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music010187</dataName>
   <netOpenName>
@@ -12,13 +12,13 @@
   <disable>false</disable>
   <name>
     <id>10187</id>
-    <str>ローリンガール [DX]</str>
+    <str>ローリンガール</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>ローリンガール [DX]</sortName>
+  <sortName>ローリンガール</sortName>
   <artistName>
     <id>999</id>
     <str>wowaka</str>
@@ -37,11 +37,11 @@
   </AddVersion>
   <movieName>
     <id>187</id>
-    <str>ローリンガール [DX]</str>
+    <str>ローリンガール</str>
   </movieName>
   <cueName>
     <id>187</id>
-    <str>ローリンガール [DX]</str>
+    <str>ローリンガール</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
