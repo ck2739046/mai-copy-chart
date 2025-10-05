@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011882</dataName>
   <netOpenName>
@@ -24,14 +24,14 @@
     <str>Shu ft 天羽しろっぷ</str>
   </artistName>
   <genreName>
-    <id>1</id>
+    <id>105</id>
     <str>
     </str>
   </genreName>
   <bpm>200</bpm>
-  <version>22001</version>
+  <version>26000</version>
   <AddVersion>
-    <id>0</id>
+    <id>25</id>
     <str>
     </str>
   </AddVersion>
