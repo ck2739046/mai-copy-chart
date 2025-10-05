@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011882</dataName>
   <netOpenName>
@@ -24,14 +24,14 @@
     <str>Shu ft 天羽しろっぷ</str>
   </artistName>
   <genreName>
-    <id>105</id>
+    <id>1</id>
     <str>
     </str>
   </genreName>
   <bpm>200</bpm>
-  <version>26000</version>
+  <version>22001</version>
   <AddVersion>
-    <id>25</id>
+    <id>0</id>
     <str>
     </str>
   </AddVersion>
@@ -64,31 +64,33 @@
       <file>
         <path>011882_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>6</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>303</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011882_01.ma2</path>
       </file>
-      <level>0</level>
+      <level>8</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>345</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
