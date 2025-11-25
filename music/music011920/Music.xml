@@ -18,13 +18,13 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Hurtling Boys</sortName>
+  <sortName>HURTLINGBOYS</sortName>
   <artistName>
     <id>999</id>
     <str>さだきち イシカダス「太鼓の達人」より</str>
   </artistName>
   <genreName>
-    <id>10</id>
+    <id>104</id>
     <str>
     </str>
   </genreName>
@@ -64,31 +64,33 @@
       <file>
         <path>011920_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>233</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011920_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>8</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>360</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
