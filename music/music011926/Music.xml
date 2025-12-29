@@ -64,46 +64,48 @@
       <file>
         <path>011926_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>134</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011926_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>6</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>280</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011926_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>10</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>433</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

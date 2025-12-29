@@ -64,31 +64,33 @@
       <file>
         <path>011935_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>6</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>312</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011935_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>8</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>10</musicLevelID>
+      <maxNotes>408</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

@@ -18,7 +18,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Magical Flavor</sortName>
+  <sortName>MAGICALFLAVOR</sortName>
   <artistName>
     <id>999</id>
     <str>DECO*27 feat.Tia</str>
@@ -64,46 +64,48 @@
       <file>
         <path>010674_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>174</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>010674_01.ma2</path>
       </file>
-      <level>0</level>
+      <level>6</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>225</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>010674_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>10</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>446</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
