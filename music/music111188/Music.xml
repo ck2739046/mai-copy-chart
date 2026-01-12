@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music111188</dataName>
   <netOpenName>
@@ -30,7 +30,7 @@
   <bpm>125</bpm>
   <version>26000</version>
   <AddVersion>
-    <id>0</id>
+    <id>25</id>
     <str>
     </str>
   </AddVersion>
@@ -154,7 +154,4 @@
   <thumbnailName />
   <rightFile />
   <priority>0</priority>
-  <utageKanjiName>藍</utageKanjiName>
-  <comment>絶え間なく青色</comment>
-  <utagePlayerStyle>0</utagePlayerStyle>
-</MusicData>
+<utageKanjiName>藍</utageKanjiName><comment>絶え間なく青色</comment><utagePlayerStyle>0</utagePlayerStyle></MusicData>
