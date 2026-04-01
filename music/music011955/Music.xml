@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011971</dataName>
+  <dataName>music011955</dataName>
   <netOpenName>
     <id>230922</id>
     <str>Net230922</str>
@@ -11,24 +11,24 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>11971</id>
-    <str>キミは“見ていたね”？</str>
+    <id>11955</id>
+    <str>ソテリア</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>キミハミテイタネ</sortName>
+  <sortName>ソテリア</sortName>
   <artistName>
     <id>999</id>
-    <str>篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)</str>
+    <str>Rafutsuri feat.桜あおい</str>
   </artistName>
   <genreName>
-    <id>106</id>
+    <id>105</id>
     <str>
     </str>
   </genreName>
-  <bpm>168</bpm>
+  <bpm>160</bpm>
   <version>26500</version>
   <AddVersion>
     <id>26</id>
@@ -36,12 +36,12 @@
     </str>
   </AddVersion>
   <movieName>
-    <id>1971</id>
-    <str>キミは“見ていたね”？</str>
+    <id>1955</id>
+    <str>ソテリア</str>
   </movieName>
   <cueName>
-    <id>1971</id>
-    <str>キミは“見ていたね”？</str>
+    <id>1955</id>
+    <str>ソテリア</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -62,67 +62,69 @@
   <notesData>
     <Notes>
       <file>
-        <path>011971_00.ma2</path>
+        <path>011955_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>4</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>011971_01.ma2</path>
-      </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>011971_02.ma2</path>
-      </file>
-      <level>10</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>999</id>
-        <str>はっぴー</str>
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>13</musicLevelID>
-      <maxNotes>471</maxNotes>
+      <musicLevelID>4</musicLevelID>
+      <maxNotes>219</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011971_03.ma2</path>
+        <path>011955_01.ma2</path>
       </file>
-      <level>13</level>
+      <level>8</level>
+      <levelDecimal>2</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>
+        </str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>345</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011955_02.ma2</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>シチミヘルツ</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>579</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011955_03.ma2</path>
+      </file>
+      <level>14</level>
       <levelDecimal>1</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>19</musicLevelID>
-      <maxNotes>655</maxNotes>
+      <musicLevelID>21</musicLevelID>
+      <maxNotes>890</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011971_04.ma2</path>
+        <path>011955_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -137,7 +139,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011971_05.ma2</path>
+        <path>011955_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
