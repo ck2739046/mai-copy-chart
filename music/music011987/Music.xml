@@ -15,8 +15,8 @@
     <str>奇々解体</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
-    <str />
+    <id>305</id>
+    <str>©Hakababunko / SHUEISHA, SHUEISHA GAMES</str>
   </rightsInfoName>
   <sortName>キカイタイ</sortName>
   <artistName>
@@ -64,31 +64,33 @@
       <file>
         <path>011987_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>162</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011987_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>6</level>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>
+        </str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>271</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
