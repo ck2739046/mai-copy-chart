@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music140429</dataName>
+  <netOpenName>
+    <id>230922</id>
+    <str>Net230922</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>4001</id>
+    <str>Ver1.40.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>140429</id>
+    <str>[宴]Wonderland Wars オープニング</str>
+  </name>
+  <rightsInfoName>
+    <id>40</id>
+    <str>©SEGA</str>
+  </rightsInfoName>
+  <sortName>Wonderland Wars オープニング</sortName>
+  <artistName>
+    <id>406</id>
+    <str>「童話」は、全て「戦記」だった </str>
+  </artistName>
+  <genreName>
+    <id>107</id>
+    <str>宴会場</str>
+  </genreName>
+  <bpm>70</bpm>
+  <version>26500</version>
+  <AddVersion>
+    <id>26</id>
+    <str>CiRCLEPLUS</str>
+  </AddVersion>
+  <movieName>
+    <id>429</id>
+    <str>Wonderland Wars オープニング</str>
+  </movieName>
+  <cueName>
+    <id>429</id>
+    <str>Wonderland Wars オープニング</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>1</id>
+    <str>無期限常時解放</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>1</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>140429_00.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>160</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>140429_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>140429_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>140429_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>140429_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>140429_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+  <utageKanjiName>宴</utageKanjiName>
+  <comment>MASTER(チャン氏のReMASが)</comment>
+  <utagePlayerStyle>0</utagePlayerStyle>
+</MusicData>
