@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011956</dataName>
+  <netOpenName>
+    <id>260305</id>
+    <str>Net260305</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <longMusic>0</longMusic>
+  <name>
+    <id>11956</id>
+    <str>Break The Speakers</str>
+  </name>
+  <rightsInfoName>
+    <id>0</id>
+    <str />
+  </rightsInfoName>
+  <sortName>BREAKTHESPEAKERS</sortName>
+  <artistName>
+    <id>655</id>
+    <str>DJ Myosuke</str>
+  </artistName>
+  <genreName>
+    <id>105</id>
+    <str>maimai</str>
+  </genreName>
+  <bpm>185</bpm>
+  <version>26005</version>
+  <AddVersion>
+    <id>26</id>
+    <str>
+    </str>
+  </AddVersion>
+  <movieName>
+    <id>1956</id>
+    <str>Break The Speakers</str>
+  </movieName>
+  <cueName>
+    <id>1956</id>
+    <str>Break The Speakers</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>260305021</id>
+    <str>260305_02_1：KOP7th決勝曲追加1《Break the Speaker》</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011956_00.ma2</path>
+      </file>
+      <level>5</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>275</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_01.ma2</path>
+      </file>
+      <level>8</level>
+      <levelDecimal>8</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>10</musicLevelID>
+      <maxNotes>443</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_02.ma2</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>6</id>
+        <str>ロシェ@ペンギン</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>18</musicLevelID>
+      <maxNotes>705</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_03.ma2</path>
+      </file>
+      <level>14</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>146</id>
+        <str>BELiZHEL</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>22</musicLevelID>
+      <maxNotes>1096</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011956_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>
